@@ -4,5 +4,6 @@
     <string name="bt_save">保存</string>
     <string name="cb_drink">ドリンク</string>
     <string name="cb_food">フード</string>
-    <string name="cb_house">ハウス</string>
+    <string name="test">test</string>
+
 </resources>
